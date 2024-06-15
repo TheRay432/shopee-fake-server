@@ -1,0 +1,27 @@
+[
+  {
+    "productId": "1",
+    "productName": "1測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+    "productImage": "https://images.pexels.com/photos/1398688/pexels-photo-1398688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "2000",
+    "sold": "1000",
+    "banner": "",
+    "keyword": "test"
+  },
+  {
+    "productId": "2",
+    "productName": "2測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品測試商品",
+    "productImage": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "2000",
+    "sold": "1000",
+    "banner": ""
+  },
+  {
+    "productId": "3",
+    "productName": "3試商品測試商品測試商品測試商品測試商品",
+    "productImage": "https://images.pexels.com/photos/2532006/pexels-photo-2532006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "2000",
+    "sold": "1000",
+    "banner": ""
+  }
+]

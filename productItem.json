@@ -3,5 +3,6 @@
   "productImg": "https://images.pexels.com/photos/109641/pexels-photo-109641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   "productTitle": "測試文字標題測試文字標題測試文字標題測試文字標題測試文字標題測試文字標題測試文字標題測試文字標題測試文字標題測試文字標題",
   "productPrice": "1800",
+  "amount": "1",
   "taste": ["口味一", "口味二"]
 }
